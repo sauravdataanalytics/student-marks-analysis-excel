@@ -1,39 +1,50 @@
 # excel-conditional-formatting
 My Microsoft Excel Conditional Formatting Practice Project
 
-# 📊 Excel Conditional Formatting Project
+# 📊 Student Marks Analysis in Microsoft Excel
 
 ## 📌 Overview
 
-This project demonstrates the use of Conditional Formatting in Microsoft Excel to make data more interactive and visually appealing.
+This project demonstrates how Microsoft Excel can be used to analyze student marks using formulas and Conditional Formatting.
 
-## 🎯 Objective
+## 🎯 Project Objective
 
-The objective of this project is to learn how Conditional Formatting can be used to identify trends, highlight important values, and improve data visualization.
+The goal of this project is to visualize student performance and automatically identify pass/fail status based on marks.
 
-## 🛠️ Tools Used
+## 📁 Dataset
+
+- Student Names
+- English
+- Mathematics
+- Science
+- Social Studies
+- Computer
+- Percentage
+- Result
+
+## 🛠 Tools Used
 
 - Microsoft Excel
 
 ## ✨ Features
 
-- Highlight Duplicate Values
-- Highlight Unique Values
-- Color Scales
-- Data Bars
-- Icon Sets
-- Custom Formatting Rules
+- ✅ Conditional Formatting
+- ✅ Percentage Calculation
+- ✅ Pass/Fail Result
+- ✅ Highlight High & Low Marks
+- ✅ Color Coding for Better Visualization
 
-## 📂 Project File
+## 📷 Project Preview
 
-- Conditional Formating In Excel.xlsx
+![Project Preview](screenshots/student-marks-analysis.png)
 
-## 📚 Skills Learned
-  
-- Conditional Formatting
-- Data Visualization
-- Excel Basics
+## 📚 Skills Demonstrated
+
 - Data Analysis
+- Data Visualization
+- Excel Formulas
+- Conditional Formatting
+- Percentage Calculation
 
 ## 👨‍💻 Author
 
